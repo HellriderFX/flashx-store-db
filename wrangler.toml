@@ -1,0 +1,7 @@
+name = "flashx-store-pages-d1"
+pages_build_output_dir = "./public"
+compatibility_date = "2026-10-28"
+
+# D1 binding FLASHX_DB must be added to Pages project in Cloudflare dashboard:
+# Settings > Bindings > Add > D1 database binding.
+# Set Variable name = FLASHX_DB and select the created database.

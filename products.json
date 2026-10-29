@@ -1,0 +1,354 @@
+[
+  {
+    "name": "ABE PLAYER TV",
+    "price": 13.5
+  },
+  {
+    "name": "ALL PLAYER",
+    "price": 13.5
+  },
+  {
+    "name": "ASSIST PLUS",
+    "price": 11.5
+  },
+  {
+    "name": "BAYTV",
+    "price": 13.0
+  },
+  {
+    "name": "BIG PLAYER",
+    "price": 16.5
+  },
+  {
+    "name": "BOB PLAYER",
+    "price": 13.5
+  },
+  {
+    "name": "BOB PREMIUM",
+    "price": 12.5
+  },
+  {
+    "name": "BOB PRO",
+    "price": 12.5
+  },
+  {
+    "name": "BOX LITE",
+    "price": 11.5
+  },
+  {
+    "name": "BOX PLAYER",
+    "price": 11.5
+  },
+  {
+    "name": "BOX PRIME",
+    "price": 11.0
+  },
+  {
+    "name": "CAP PLAYER",
+    "price": 11.0
+  },
+  {
+    "name": "CLOUDDY",
+    "price": 23.0
+  },
+  {
+    "name": "CORE PLAYER",
+    "price": 10.5
+  },
+  {
+    "name": "CR PLAYER",
+    "price": 11.0
+  },
+  {
+    "name": "DREAMTV",
+    "price": 11.5
+  },
+  {
+    "name": "DUPLECAST IPTV",
+    "price": 22.0
+  },
+  {
+    "name": "DUPLEX MAX",
+    "price": 10.5
+  },
+  {
+    "name": "DUPLEX PRO",
+    "price": 12.5
+  },
+  {
+    "name": "DUPLEX TV",
+    "price": 11.5
+  },
+  {
+    "name": "EGO IPTV",
+    "price": 11.0
+  },
+  {
+    "name": "ENZOPLAYER",
+    "price": 11.5
+  },
+  {
+    "name": "FAMILY PLAYER",
+    "price": 12.5
+  },
+  {
+    "name": "FLIXNET",
+    "price": 12.5
+  },
+  {
+    "name": "FLIXTRA PLAYER",
+    "price": 12.0
+  },
+  {
+    "name": "FOCO X PLAY",
+    "price": 11.0
+  },
+  {
+    "name": "FUNPLAY",
+    "price": 11.0
+  },
+  {
+    "name": "GRAVITY PLAYER",
+    "price": 12.5
+  },
+  {
+    "name": "GTV PLAYER",
+    "price": 16.5
+  },
+  {
+    "name": "HDPLAYER",
+    "price": 11.5
+  },
+  {
+    "name": "HERO PLAY",
+    "price": 16.5
+  },
+  {
+    "name": "HQ PLAYER",
+    "price": 11.0
+  },
+  {
+    "name": "HUSH PLAY",
+    "price": 12.5
+  },
+  {
+    "name": "IBO APPS",
+    "price": 13.5
+  },
+  {
+    "name": "IBO PLAYER PREMIUM",
+    "price": 12.0
+  },
+  {
+    "name": "IBO PLAYER PRO",
+    "price": 13.5
+  },
+  {
+    "name": "IBO SMARTERS",
+    "price": 11.5
+  },
+  {
+    "name": "IBO STB",
+    "price": 13.5
+  },
+  {
+    "name": "IBO VPN PLAYER",
+    "price": 12.0
+  },
+  {
+    "name": "IBO XPLAYER",
+    "price": 11.0
+  },
+  {
+    "name": "IBOSOL PLAYER",
+    "price": 12.5
+  },
+  {
+    "name": "IBOSS PLAYER",
+    "price": 12.5
+  },
+  {
+    "name": "IPTV 4K",
+    "price": 12.0
+  },
+  {
+    "name": "IPTV DUPLEX PLAY",
+    "price": 12.0
+  },
+  {
+    "name": "IPTV OTT PLAYER",
+    "price": 11.5
+  },
+  {
+    "name": "IPTV PLAY",
+    "price": 11.5
+  },
+  {
+    "name": "IPTV PLAYER",
+    "price": 11.5
+  },
+  {
+    "name": "IPTV PLAYER IO",
+    "price": 11.5
+  },
+  {
+    "name": "IPTV PLUS",
+    "price": 11.5
+  },
+  {
+    "name": "IPTV PRO",
+    "price": 11.5
+  },
+  {
+    "name": "IPTV STAR",
+    "price": 11.5
+  },
+  {
+    "name": "IPTV STREAM PLAYER",
+    "price": 11.5
+  },
+  {
+    "name": "IPTV XTREAM PLAYER",
+    "price": 12.0
+  },
+  {
+    "name": "KEMET TV",
+    "price": 12.5
+  },
+  {
+    "name": "KING 4K PLAYER",
+    "price": 12.5
+  },
+  {
+    "name": "KTN PLAYER",
+    "price": 12.5
+  },
+  {
+    "name": "LAZERPLAY",
+    "price": 11.0
+  },
+  {
+    "name": "MAC PLAYER",
+    "price": 12.5
+  },
+  {
+    "name": "MAGIC PLAYER",
+    "price": 11.0
+  },
+  {
+    "name": "MAX+",
+    "price": 11.5
+  },
+  {
+    "name": "MESSITV",
+    "price": 11.0
+  },
+  {
+    "name": "META PLAYER",
+    "price": 15.0
+  },
+  {
+    "name": "NINJA PLAYER",
+    "price": 16.5
+  },
+  {
+    "name": "NINJA PLUS",
+    "price": 16.5
+  },
+  {
+    "name": "ORA",
+    "price": 13.5
+  },
+  {
+    "name": "ORA PRO",
+    "price": 13.5
+  },
+  {
+    "name": "PLAYSIM",
+    "price": 11.0
+  },
+  {
+    "name": "POWERPLAY",
+    "price": 11.5
+  },
+  {
+    "name": "PRO PLAYER",
+    "price": 13.5
+  },
+  {
+    "name": "Q PLAY",
+    "price": 16.5
+  },
+  {
+    "name": "QUICK PLAY BLACK",
+    "price": 16.0
+  },
+  {
+    "name": "QUICK PLAYER",
+    "price": 16.0
+  },
+  {
+    "name": "QUICK PLUS",
+    "price": 16.5
+  },
+  {
+    "name": "QUICK PRO",
+    "price": 16.0
+  },
+  {
+    "name": "SCANDIC IPTV",
+    "price": 12.0
+  },
+  {
+    "name": "SMARTERS IPTV",
+    "price": 14.0
+  },
+  {
+    "name": "SMARTERS IPTV PRO",
+    "price": 12.5
+  },
+  {
+    "name": "SMARTERS VPN PLAYER",
+    "price": 11.0
+  },
+  {
+    "name": "SMARTONE IPTV",
+    "price": 21.0
+  },
+  {
+    "name": "SMARTONE PRO",
+    "price": 14.5
+  },
+  {
+    "name": "STREAM XTREAM",
+    "price": 12.0
+  },
+  {
+    "name": "SUPER PLAY",
+    "price": 11.5
+  },
+  {
+    "name": "TVIP PLAYER",
+    "price": 12.0
+  },
+  {
+    "name": "VIBO PLAYER",
+    "price": 11.5
+  },
+  {
+    "name": "VIRGINIA",
+    "price": 13.5
+  },
+  {
+    "name": "VIZZION PLAY",
+    "price": 10.0
+  },
+  {
+    "name": "VU PLAYER PRO",
+    "price": 13.5
+  },
+  {
+    "name": "ZERO PLAYER",
+    "price": 11.0
+  }
+]

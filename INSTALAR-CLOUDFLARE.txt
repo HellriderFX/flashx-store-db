@@ -1,0 +1,13 @@
+INSTALAÇÃO SIMPLIFICADA — FLASHX PAGES + D1 (SEM NEON)
+
+1. Cloudflare > Workers & Pages > D1 SQL Database > Create database. Nome sugerido: flashx-store-db.
+2. Na base, abra Console/SQL e execute o conteúdo inteiro de d1-setup.sql.
+3. Envie os arquivos de dentro do ZIP para a raiz do repositório GitHub (sem uma pasta extra).
+4. Cloudflare > Workers & Pages > Create application > Pages > Connect to Git; escolha o repositório.
+5. Build preset None; deixe Build command vazio; output directory public; Root directory vazio/raiz. A pasta public já está no ZIP. Não use npm run build nem comando Node.
+6. Projeto Pages > Settings > Bindings > Add > D1 database binding. Nome variável exatamente FLASHX_DB. Selecione a base criada e salve.
+7. Settings > Variables and Secrets: adicione como secrets ADMIN_EMAIL, ADMIN_PASSWORD, ADMIN_KEYWORD e JWT_SECRET (32+ caracteres). Salve.
+8. Faça novo deploy. Para Preview, crie também o binding D1 e secrets no ambiente Preview.
+9. Teste SEU-PROJETO.pages.dev/api/health; esperado: {"ok":true,"database":"connected","provider":"Cloudflare D1"}.
+
+Esta versão não usa Neon nem DATABASE_URL. Não envie secrets ao GitHub ou ao chat.
